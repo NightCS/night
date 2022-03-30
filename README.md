@@ -4,7 +4,7 @@ This is a colorscheme inspired by the colorscheme showed in the [rxyhn dotfiles]
 
 > It's so beautiful and clean look at this!:
 
-![screenshot](./.misc/nightlypwn.png)
+![screenshot](./.screenshots/nightlypwn.png)
 
 ## Ports
 
